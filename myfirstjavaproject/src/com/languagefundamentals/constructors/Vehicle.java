@@ -1,5 +1,6 @@
+package com.languagefundamentals.constructors;
 
-public class Testdemo21 {
+public class Vehicle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
