@@ -3,10 +3,10 @@ package com.logicalconditionalstatements;
 import java.util.Scanner;
 
 //WAP to check the Eligibility for Marriage in Matrimonial sites.
-public class TestLSDemo3 {
+public class MatrimonialSite {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to Vcube Matrimonial ");
+		System.out.println("Welcome to  Matrimonial Site");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Can you Please Enter your Name : ");
 		String name = sc.nextLine();
